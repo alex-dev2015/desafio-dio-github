@@ -3,7 +3,7 @@
  <img  src="https://github.com/alex-dev2015/desafio-dio-github/blob/main/img/index.jpeg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Desafio GitHub</h3>
 
 <div align="center">
 
